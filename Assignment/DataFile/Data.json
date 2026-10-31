@@ -1,0 +1,27 @@
+﻿{
+  "url": "https://katalon-demo-cura.herokuapp.com/",
+  "blockimages": false,
+
+  "username": "John Doe",
+  "password": "ThisIsNotAPassword",
+  "InvalidUserName": "wrong_user",
+  "InvalidPassword": "wrong_pass",
+  "loginerror": "Login failed! Please ensure the username and password are valid.",
+
+  "facility": "Seoul CURA Healthcare Center",
+  "facilities": [
+    "Tokyo CURA Healthcare Center",
+    "Hongkong CURA Healthcare Center",
+    "Seoul CURA Healthcare Center"
+  ],
+  "readmission": true,
+  "program": "Medicaid",
+  "visitdaysoffset": 7,
+  "comment": "Regular check-up booked by automation",
+
+  "hometitle": "CURA Healthcare Service",
+  "logintitle": "Login",
+  "appointmenttitle": "Make Appointment",
+  "summarytitle": "Appointment Confirmation",
+  "historytitle": "History"
+}
